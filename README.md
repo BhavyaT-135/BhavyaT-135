@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhavyaT-135&show_icons=true&theme=radical)
+
 <!--
 **BhavyaT-135/BhavyaT-135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
