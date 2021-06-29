@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bhavyat-135&label=Profile%20views&color=0eb493&style=flat" alt="bhavyat-135" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavyat-135&theme=radical&hide_border=true" alt="bhavyat-135" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavyat-135&theme=radical&hide_border=true&no-frame=true" alt="bhavyat-135" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter,Dart, Firebase**
 
