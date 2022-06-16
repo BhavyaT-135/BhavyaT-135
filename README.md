@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **bhavyatewari.13.5@gmail.com**
 
-- 📄 Know about my experiences [https://resume.creddle.io/resume/7gno4510n3u](https://resume.creddle.io/resume/7gno4510n3u)
+- 📄 Know about my experiences [Check out my Resume!](https://drive.google.com/file/d/1jQlktvwFhqZOw0wQAfGoey73z5YbPOvE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
