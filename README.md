@@ -2,7 +2,7 @@
 
 ![cover_bt](https://user-images.githubusercontent.com/55613637/150692095-177aeccc-9703-47eb-a0b8-8374046e1a8d.svg)
 
-<h3 align="center">A passionate software developer from India, currently pursuing B.Tech in Information Technology and Mathematical Innovations from Cluster Innovation Centre, University of Delhi. I am a Web/App Developer and like contibuting to open source projects.</h3>
+<h3 align="center">A passionate software developer from India, currently pursuing B.Tech in Information Technology and Mathematical Innovations from Cluster Innovation Centre, University of Delhi. I am a Web/App Developer and like contributing to open source projects.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bhavyat-135&label=Profile%20views&color=0eb493&style=flat" alt="bhavyat-135" /> </p>
 
