@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Bhavya Tewari</h1>
+<h1 align="center">Hi! 👋 I'm Bhavya Tewari</h1>
 
-![cover_bt](https://user-images.githubusercontent.com/55613637/150692095-177aeccc-9703-47eb-a0b8-8374046e1a8d.svg)
+![unnamed](https://user-images.githubusercontent.com/55613637/177010863-e67c5a46-7ef3-4eda-a1c3-2f663f1ba1c8.gif)
 
-<h3 align="center">A passionate software developer from India, currently pursuing B.Tech in Information Technology and Mathematical Innovations from Cluster Innovation Centre, University of Delhi. I am a Web/App Developer and like contributing to open source projects.</h3>
+<h2 align="center">Software Developer :maple_leaf:| Open-Source Enthusiast :jack_o_lantern:</h2>
+
+<h3 align="center">I'm a passionate software developer from India. Junior @ CIC, DU pursuing B.Tech in IT and Mathematical Innovations. :dart:</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bhavyat-135&label=Profile%20views&color=0eb493&style=flat" alt="bhavyat-135" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavyat-135&theme=radical&hide_border=true&no-frame=true" alt="bhavyat-135" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavyat-135&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=radical&hide_border=true&no-frame=true" alt="bhavyat-135" /></a> </p>
 
 <h3 align="center">👀 Check out my Portfolio <a href="https://bhavyat-135.github.io/Portfolio-ReactJS"> here! </a></h3>
 <p align="center">
