@@ -4,7 +4,7 @@
 
 <h2 align="center">Software Developer :maple_leaf:| Open-Source Enthusiast :jack_o_lantern:</h2>
 
-<h3 align="center">I'm a passionate software developer from India. Junior @ CIC, DU pursuing B.Tech in IT and Mathematical Innovations. :dart:</h3>
+<h3 align="center">I'm a passionate software developer from India. Senior @ CIC, DU pursuing B.Tech in IT and Mathematical Innovations. :dart:</h3>
 <br>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bhavyat-135&label=Profile%20views&color=0eb493&style=flat" alt="bhavyat-135" /> </p>
