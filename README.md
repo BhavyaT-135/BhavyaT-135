@@ -13,7 +13,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavyat-135&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&hide_border=true&no-frame=true" alt="bhavyat-135" /></a> </p>
 <br>
 
-<h3 align="center">Click <a href="https://drive.google.com/file/d/1jQlktvwFhqZOw0wQAfGoey73z5YbPOvE/view?usp=sharing"> here </a> to check out my Resume! </h3>
+<h3 align="center">Click <a href="https://drive.google.com/file/d/15ltvORfDeAToKHIQIbHnO3u2g7BKmAKA/view"> here </a> to check out my Resume! </h3>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/55613637/177040570-de56378b-a47b-45b8-ba3e-905c104204e0.png?transparent=1&palette=1" width=250 height=250>
 </p>
